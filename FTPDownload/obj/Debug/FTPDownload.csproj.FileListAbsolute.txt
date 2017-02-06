@@ -1,0 +1,9 @@
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\FTPDownload\FTPDownload\bin\Debug\FTPDownload.exe.config
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\FTPDownload\FTPDownload\obj\Debug\FTPDownload.csprojResolveAssemblyReference.cache
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\FTPDownload\FTPDownload\bin\Debug\FTPDownload.exe
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\FTPDownload\FTPDownload\bin\Debug\FTPDownload.pdb
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\FTPDownload\FTPDownload\obj\Debug\FTPDownload.exe
+c:\users\gabriel.silva\documents\visual studio 2012\Projects\FTPDownload\FTPDownload\obj\Debug\FTPDownload.pdb
+T:\Tecnologia\Equipes\Tecnologia Trucker\Aplicações\FTPDownload\FTPDownload\bin\Debug\FTPDownload.exe.config
+T:\Tecnologia\Equipes\Tecnologia Trucker\Aplicações\FTPDownload\FTPDownload\obj\Debug\FTPDownload.exe
+T:\Tecnologia\Equipes\Tecnologia Trucker\Aplicações\FTPDownload\FTPDownload\obj\Debug\FTPDownload.pdb
